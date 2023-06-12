@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Online Digital Clock - README</title>
+  <h1>Online Digital Clock - README</h1>
 </head>
 <body>
   <h1>Online Digital Clock</h1>
