@@ -6,7 +6,7 @@
   <h1>Online Digital Clock - README</h1>
 </head>
 <body>
-  <h1>Online Digital Clock</h1>
+  <h2>Online Digital Clock</h1>
 
   <p>This is a simple HTML file with JavaScript code that displays the current time in a digital clock format.</p>
 
