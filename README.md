@@ -30,13 +30,14 @@
 
   <p>If you want to contribute to this project and make improvements or add new features, feel free to submit a pull request. Contributions are always welcome!</p>
 
+
   <h2>Acknowledgments</h2>
 
   <p>This project was created as a learning exercise. It may serve as a starting point for anyone looking to build an online digital clock with JavaScript.</p>
 
   <h2>Contact</h2>
 
-  <p>If you have any questions or suggestions, feel free to contact Himanshu Nimonkar via email at hnimonkar@gmail.com.</p>
+  <p>If you have any questions or suggestions, feel free to contact <strong>Himanshu Nimonkar</strong> via email at <strong>hnimonkar@gmail.com</strong>.</p>
 
   <p>Happy coding!</p>
 </body>
